@@ -62,7 +62,7 @@ if((name.value == "root")&&(password.value == "admin")){
   removePasswordWindow();
   changeRootValue();
   //Funcion especifica de la pagina web
-  createHeader(true);
+  
 }
 }
 
