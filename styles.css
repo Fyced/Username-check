@@ -1,0 +1,35 @@
+#divT {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+
+#divH {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: x-large;
+  height: 70px;
+
+}
+
+#divN,
+#divP {
+  text-align: center;
+
+}
+
+#divP{
+  margin-top: 10px;
+}
+
+#button {
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+  height: 30px;
+  width: 150px;
+  font-size: medium;
+}
